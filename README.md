@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything
-- 📫 I can be reached at Twitter @tangw
 
 <!---
 tangw/tangw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
